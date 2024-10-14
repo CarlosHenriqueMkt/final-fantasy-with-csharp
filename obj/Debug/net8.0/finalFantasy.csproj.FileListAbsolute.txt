@@ -1,0 +1,14 @@
+E:\programming\backend\training\.NET C#\finalFantasy\bin\Debug\net8.0\finalFantasy.exe
+E:\programming\backend\training\.NET C#\finalFantasy\bin\Debug\net8.0\finalFantasy.deps.json
+E:\programming\backend\training\.NET C#\finalFantasy\bin\Debug\net8.0\finalFantasy.runtimeconfig.json
+E:\programming\backend\training\.NET C#\finalFantasy\bin\Debug\net8.0\finalFantasy.dll
+E:\programming\backend\training\.NET C#\finalFantasy\bin\Debug\net8.0\finalFantasy.pdb
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.AssemblyInfoInputs.cache
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.AssemblyInfo.cs
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.csproj.CoreCompileInputs.cache
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.dll
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\refint\finalFantasy.dll
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.pdb
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\finalFantasy.genruntimeconfig.cache
+E:\programming\backend\training\.NET C#\finalFantasy\obj\Debug\net8.0\ref\finalFantasy.dll
